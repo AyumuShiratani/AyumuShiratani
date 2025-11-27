@@ -6,8 +6,7 @@
 	<img src="https://github-readme-stats-ayumushiratani.vercel.app/api?username=AyumuShiratani&show_icons=true&locale=en&layout=donut&title_color=ff7abc&text_color=3f3f3f&border_color=ffffff&bg_color=ffe7ff&icon_color=ff9933&" alt="GitHub Stats" height="200" align="center" />
 	<img src="https://github-readme-stats-ayumushiratani.vercel.app/api/top-langs?username=AyumuShiratani&show_icons=true&locale=en&layout=donut&title_color=ff7abc&text_color=3f3f3f&border_color=ffffff&bg_color=ffe7ff&icon_color=ff9933&" alt="Top Languages" height="200" align="center" />
 </div>
+<br>
 
-
-
-
-<!-- <img src="https://github-profile-trophy.vercel.app/?username=AyumuShiratani&theme=juicyfresh&no-bg=true" /> -->
+<!-- GitHubプロフィールトロフィー -->
+<img src="https://github-profile-trophy.vercel.app/?username=AyumuShiratani&theme=dark_lover&no-bg=true" />
