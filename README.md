@@ -3,8 +3,8 @@
 <!-- https://vercel.com/ayumushiratanis-projects/github-readme-stats-ayumushiratani -->
 <!-- GitHub統計，最もよく使っている言語-->
 <div style="display:flex; gap: 16px; align-items:center; justify-content:center; flex-wrap:wrap;">
-	<img src="https://github-readme-stats-ayumushiratani.vercel.app/api?username=AyumuShiratani&show_icons=true&locale=ja&layout=donut&title_color=ff7abc&text_color=3f3f3f&border_color=ffffff&bg_color=ffe7ff&icon_color=ff9933&" alt="GitHub Stats" height="200" align="center" />
-	<img src="https://github-readme-stats-ayumushiratani.vercel.app/api/top-langs?username=AyumuShiratani&show_icons=true&locale=ja&layout=donut&title_color=ff7abc&text_color=3f3f3f&border_color=ffffff&bg_color=ffe7ff&icon_color=ff9933&" alt="Top Languages" height="200" align="center" />
+	<img src="https://github-readme-stats-ayumushiratani.vercel.app/api?username=AyumuShiratani&show_icons=true&locale=en&layout=donut&title_color=ff7abc&text_color=3f3f3f&border_color=ffffff&bg_color=ffe7ff&icon_color=ff9933&" alt="GitHub Stats" height="200" align="center" />
+	<img src="https://github-readme-stats-ayumushiratani.vercel.app/api/top-langs?username=AyumuShiratani&show_icons=true&locale=en&layout=donut&title_color=ff7abc&text_color=3f3f3f&border_color=ffffff&bg_color=ffe7ff&icon_color=ff9933&" alt="Top Languages" height="200" align="center" />
 </div>
 
 
