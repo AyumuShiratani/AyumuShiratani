@@ -11,7 +11,7 @@
 <!-- GitHubプロフィールトロフィー -->
 <img src="https://github-profile-trophy.vercel.app/?username=AyumuShiratani&theme=dark_lover&no-bg=true" />
 
-<!--  -->
+<!-- snake game -->
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AyumuShiratani/AyumuShiratani/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AyumuShiratani/AyumuShiratani/output/github-snake.svg" />
