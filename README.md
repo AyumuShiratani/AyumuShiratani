@@ -9,7 +9,8 @@
 <br>
 
 <!-- GitHubプロフィールトロフィー -->
-<img src="https://github-profile-trophy.vercel.app/?username=AyumuShiratani&theme=dark_lover&no-bg=true" />
+<!-- 停止中 -->
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=AyumuShiratani&theme=dark_lover&no-bg=true" /> -->
 
 <!-- snake game -->
 <picture>
