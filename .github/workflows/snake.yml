@@ -27,4 +27,9 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}   # Personal access tokens (classic)
+                                                  # Scopes
+                                                  #   repo             | Full control of private repositories
+                                                  #   workflow         | Update GitHub Action workflows
+                                                  #   user - read:user | Read all user profile data
+
